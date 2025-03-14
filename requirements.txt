@@ -1,0 +1,11 @@
+phi 
+google-generativeai 
+pandas 
+PyPDF2 
+beautifulsoup4 
+requests 
+python-dotenv
+streamlit
+phidata
+duckduckgo-search
+openpyxl
